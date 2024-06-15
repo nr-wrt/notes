@@ -1,7 +1,7 @@
 # Huawei Smart-MA5608T
 
 ## FAQ
-### 1. `ont autofind` 成功, 但是 `confirm` 失败
+### 1. `ont autofind`成功,但`confirm`失败
  - ONT 产测设置的wan_mac地址(影响sn-auth的id)
  - BOB 的eeprom配置, `vendor id`是否被OLT接受
  - `display ont info` 看到
